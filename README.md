@@ -15,6 +15,11 @@ Dream Housing Finance company deals in all home loans. They have presence across
 5) Data Pre-processing
 6) Model Development and Evaluation
 
+## Model
+ - SVM
+ - Accuracy: 81%
+
+
  
  ## Technologies 🖥️
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
