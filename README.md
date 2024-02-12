@@ -8,13 +8,13 @@ Dream Housing Finance company deals in all home loans. They have presence across
 
 ## The project covers the whole process from problem statement to model development and evaluation:
 
-Problem Statement
-Hypothesis Generation
-Data Collection
-Exploratory Data Analysis (EDA)
-Data Pre-processing
-Model Development and Evaluation
-Conclusion
+1) Problem Statement
+2)Hypothesis Generation
+3) Data Collection
+4) Exploratory Data Analysis (EDA)
+5) Data Pre-processing
+6) Model Development and Evaluation
+
  
  ## Technologies 🖥️
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
